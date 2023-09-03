@@ -1,0 +1,1 @@
+Casts a specified link skill at target player.
